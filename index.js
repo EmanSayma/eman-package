@@ -1,3 +1,3 @@
 exports.printMe =  () => {
-    console.log("This is a message from eman-package.".red);
+    console.log("This is a message from eman-package.", "color: #ffaaee");
 }
